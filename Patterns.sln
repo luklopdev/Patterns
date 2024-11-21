@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", "{E3FE56E1-1A8B-45E1-B007-9FC1B6250EAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyweight.csproj", "{B96DD404-1DB1-4FD2-AAB9-4C8416DAEE9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B96DD404-1DB1-4FD2-AAB9-4C8416DAEE9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96DD404-1DB1-4FD2-AAB9-4C8416DAEE9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96DD404-1DB1-4FD2-AAB9-4C8416DAEE9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96DD404-1DB1-4FD2-AAB9-4C8416DAEE9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B96DD404-1DB1-4FD2-AAB9-4C8416DAEE9B} = {E3FE56E1-1A8B-45E1-B007-9FC1B6250EAA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {592C7647-E082-4E30-B667-62EB9EB9CCF3}
+	EndGlobalSection
+EndGlobal
